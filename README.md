@@ -7,6 +7,7 @@ https://www.medrxiv.org/content/10.1101/2020.11.01.20214122v1
 and 
 https://www.appliedclinicaltrialsonline.com/view/simulation-model-for-productivity-risk-and-gdp-impact-forecasting-of-the-covid-19-portfolio-vaccines
 
+The results of the project allow to predict outcome and risk of the portfolio of COVID-19 vaccines. It also allows to analyze various risk mitigation strategies (e.g. scaling up of the Operation Warp Speed (OWS)), and make assessments about global GDP impact of effective policies. 
 
 License 
 Copyright 2020 ORBee Consulting
@@ -16,5 +17,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-Why the project is useful
-The results of the project allow to predict outcome and risk of the portfolio of COVID-19 vaccines. It also allows to analyze various risk mitigation strategies (e.g. scaling up of the Operation Warp Speed (OWS)), and make assessments about global GDP impact of effective policies. 
+
+
