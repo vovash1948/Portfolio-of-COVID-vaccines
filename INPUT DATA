@@ -1,0 +1,19 @@
+Input files
+All files are text format. Originally, all files are in MS Excel, but then converted to text files (currently manually). All data for the model is in (MedXriv - appendix) 
+INV1.SAV   - # vaccines, number of months in planning horizon,  # cycles, number phases, platforms, # leading vaccines, vaccine demand, # in-licencing deals, % increase or decrease manufacturing capacity
+INV1A2.SAV – min probability for each platform
+INV1A3.SAV - max probability for each platform
+INV1A4.SAV - interdependence coefficients for each platform (success > 1)
+INV1A5.SAV - interdependence coefficients for each platform, failure <1
+INVB1.SAV - production capacity for each platform
+INV2.SAV – probabilities of success for each phase and platform. 
+INV4.SAV - lead vaccine (Operation Warp Speed (OWS)) vs. non-lead
+INV5A.SAV – trials allocation across platforms
+INV6.SAV – start phase for each candidate
+INV7.SAV – number of trials per phase and platform
+INV10.SAV – platform # for each vaccine
+INV13.SAV- leading vaccine candidates (OWS) – numbers
+INV14A.SAV – duration of a clinical trial
+INV14B.SAV – accelerated duration of a clinical trial
+INV16.SAV – number to start next platform (vaccine group)
+INV17.SAV – number to calculate end of the group (for interdependence) 
