@@ -1,0 +1,20 @@
+Output files
+Text format manually converted to csv and then to MS Excel for the processing. 
+MSSB1.OUT – Lead approved vaccines
+MSSB2.OUT - Time for approval
+MSSB3.OUT - Priority vaccines numbers
+MSSB4.OUT – Manufacturing allocation across platforms
+MSSB5.OUT – R&D allocation across platforms
+MSSB7.OUT – total approvals R&D and manufacturing
+MSSB8.OUT – R&D time across platforms
+MSSB9.OUT – Production dynamic, cycle, month 1-20 (current limitations) 
+MSSB10.OUT - Production dynamic, cycle, month 21-40
+MSSB10A.OUT 	- Production dynamic, cycle, month 41-60
+MSSB10B.OUT 	- Production dynamic, cycle, month 61-80
+MSSB10C.OUT 	- Production dynamic, cycle, month 81-100
+MSSB11.OUT - total approvals
+MSSB12.OUT – lead approvals in a given interval		
+MSSB13.OUT – total approvals in a given interval		
+MSSB15.OUT - lead approvals allocation across platforms
+MSSB16.OUT - Max manufacturing time
+KSSB1.OUT – KSSB8.OUT – production allocation across eight platforms
