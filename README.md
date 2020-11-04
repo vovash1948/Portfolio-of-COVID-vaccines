@@ -1,5 +1,6 @@
 
-What the project does
+Project Goal
+
 The project is related to development of Monte Carlo simulation model for portfolio of COVID-19 vaccines. The model utilizes data on current COVID-19 vaccines in development across technology platforms. Vaccines are in various stages of clinical trials. Outcome of a clinical trial is defined by probability of success (POS) by using random generation. The model predicts how many vaccines will seek regulatory approval in certain time period, e.g. end of 2021 and their production and risk.  Also, the model predicts how much time is needed to produce 11.2B doses to eradicate pandemic and corresponding risk. The model includes interdependence rules for vaccines within a platform. If a trial is successful, POS increases by a %. Otherwise, decreases by a %. Also, in order to accelerate development, selected vaccines reaching Ph3 trials get additional financing. They can compress clinical trials cycle times and overlap them. 
 Detailed overview of the methodology, modeling results and data presented in 
 https://www.medrxiv.org/content/10.1101/2020.11.01.20214122v1
