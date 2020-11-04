@@ -6,6 +6,8 @@ Detailed overview of the methodology, modeling results and data presented in
 https://www.medrxiv.org/content/10.1101/2020.11.01.20214122v1
 and 
 https://www.appliedclinicaltrialsonline.com/view/simulation-model-for-productivity-risk-and-gdp-impact-forecasting-of-the-covid-19-portfolio-vaccines
+
+
 License 
 Copyright 2020 ORBee Consulting
 
