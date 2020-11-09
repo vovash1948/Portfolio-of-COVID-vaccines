@@ -45,8 +45,6 @@ The model can be run from an executable file on “PC-Lenovo” server. Remote a
 
 https://support.google.com/chrome/answer/1649523
 
-Share your computer with someone else
-You can give others remote access to your computer. They’ll have full access to your apps, files, emails, documents and history.
 1.	On your computer, open Chrome.
 2.	In the address bar at the top, type remotedesktop.google.com/support, and press Enter.
 3.	Under “Get Support”, click Download  .
