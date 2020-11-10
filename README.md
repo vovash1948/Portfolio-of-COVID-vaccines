@@ -54,7 +54,8 @@ https://support.google.com/chrome/answer/1649523
 7.	When that person enters your access code on the site, you will see a dialog with their e-mail address. Select Share to allow them full access to your computer.
 8.	To end a sharing session, click Stop Sharing.
 The access code will only work one time. If you are sharing your computer, you will be asked to confirm that you want to continue to share your computer every 30 minutes.
-When remote access to the server established, go to the drive G, directory C3. Click on “hpro” file. In Command Prompt window dialog type file name “COVID_091120_C3.gps” and press “Enter”. Execution time is about two seconds. Then in the same C3 directory, click on output files (please, see OUTPUT FILES for the list of names) 
+
+When remote access to the server established, go to the drive G, directory C3. Click on “hpro” file. In Command Prompt window dialog type file name “COVID_110920_C3.gps” and press “Enter”. Execution time is about two seconds. Then in the same C3 directory, click on output files (please, see OUTPUT FILES for the list of names) 
 
 
 
