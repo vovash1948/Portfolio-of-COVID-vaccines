@@ -1,29 +1,29 @@
 output files								                            variable Integer, float	type	    raws	            columns			comment
-MSSB1.OUT – Lead approved vaccines					            LEADV	integer	          matrix	  &I - sim. cycles	&J - Vaccines 	five vaccines. Moderna, J&J, Merck, Pfizer, AZ
-MSSB2.OUT - Time for approval						                VACTIME	integer	        matrix	  &I - sim. cycles	&J - month	
-MSSB3.OUT - Priority vaccines numbers					          LEADN	  integer	        matrix	  &I - sim. cycles	&J - Vaccines 	lead vaccines
+MSSB1.OUT – Lead approved vaccines				LEADV	integer	          matrix	  &I - sim. cycles	&J - Vaccines 	five vaccines. Moderna, J&J, Merck, Pfizer, AZ
+MSSB2.OUT - Time for approval					VACTIME	integer	        matrix	  &I - sim. cycles	&J - month	
+MSSB3.OUT - Priority vaccines numbers				LEADN	integer	        matrix	  &I - sim. cycles	&J - Vaccines 	lead vaccines
 MSSB4.OUT – Manufacturing allocation across platforms		VACMAN	integer	        matrix	  &I - sim. cycles	&J - platform	
-MSSB5.OUT – Average R&D time allocation across platformsVACTAV	integer	        matrix	  &I - sim. cycles	&J - platform	
-MSSB7.OUT – total approval time  R&D and manufacturing	MAXDEVT	integer	        vector	  &I - sim. cycles		
-MSSB8.OUT – R&D time allocation across platforms			  VACPLAT	integer	        matrix	  &I - sim. cycles	&J - platform	
-MSSB9.OUT – Production dynamic, cycle, month 1-20     	SUPVAC	integer	        matrix	  &I - sim. cycles	&J - month	    line length has limitation 133 symbols. 
-MSSB10.OUT - Production dynamic, cycle, month 21-40			SUPVAC	integer	        matrix	  &I - sim. cycles	&J - month	line length has limitation 133 symbols. 
+MSSB5.OUT – Average R&D time allocation across platforms	VACTAV	integer	        matrix	  &I - sim. cycles	&J - platform	
+MSSB7.OUT – total approval time  R&D and manufacturing		MAXDEVT	integer	        vector	  &I - sim. cycles		
+MSSB8.OUT – R&D time allocation across platforms		VACPLAT	integer	        matrix	  &I - sim. cycles	&J - platform	
+MSSB9.OUT – Production dynamic, cycle, month 1-20     		SUPVAC	integer	        matrix	  &I - sim. cycles	&J - month	    line length has limitation 133 symbols. 
+MSSB10.OUT - Production dynamic, cycle, month 21-40		SUPVAC	integer	        matrix	  &I - sim. cycles	&J - month	line length has limitation 133 symbols. 
 MSSB10A.OUT - Production dynamic, cycle, month 41-60		SUPVAC	integer	        matrix	  &I - sim. cycles	&J - month	line length has limitation 133 symbols. 
 MSSB10B.OUT  - Production dynamic, cycle, month 61-80		SUPVAC	integer	        matrix	  &I - sim. cycles	&J - month	line length has limitation 133 symbols. 
 MSSB10C.OUT - Production dynamic, cycle, month 61-80		SUPVAC	integer	        matrix	  &I - sim. cycles	&J - month	line length has limitation 133 symbols. 
-MSSB11.OUT - total approvals						                APPRIN	integer	        vector	  &I - sim. cycles		
-MSSB12.OUT – lead approvals in a given interval				  APLEAD	integer	        vector	  &I - sim. cycles		
-MSSB13.OUT – total approvals in a given interval			  APINT	  integer	        vector	  &I - sim. cycles		
-MSSB15.OUT - approvals allocation across platforms			VACDUR5	integer	        matrix	  &I - sim. cycles	&J - platform	
-MSSB16.OUT - Max manufacturing time					            MAXTIME	integer	        vector	  &I - sim. cycles		
-KSSB1.OUT - production dynamic platform #1	            PLAT1	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
-KSSB1.OUT - production dynamic platform #2	            PLAT2	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
-KSSB1.OUT - production dynamic platform #3	            PLAT3	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
-KSSB1.OUT - production dynamic platform #4	            PLAT4	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
-KSSB1.OUT - production dynamic platform #5	            PLAT5	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
-KSSB1.OUT - production dynamic platform #6	            PLAT6	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
-KSSB1.OUT - production dynamic platform #7	            PLAT7	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
-KSSB1.OUT - production dynamic platform #8	            PLAT8	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
+MSSB11.OUT - total approvals					APPRIN	integer	        vector	  &I - sim. cycles		
+MSSB12.OUT – lead approvals in a given interval			APLEAD	integer	        vector	  &I - sim. cycles		
+MSSB13.OUT – total approvals in a given interval		APINT	integer	        vector	  &I - sim. cycles		
+MSSB15.OUT - approvals allocation across platforms		VACDUR5	integer	        matrix	  &I - sim. cycles	&J - platform	
+MSSB16.OUT - Max manufacturing time				MAXTIME	integer	        vector	  &I - sim. cycles		
+KSSB1.OUT - production dynamic platform #1	            	PLAT1	integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
+KSSB1.OUT - production dynamic platform #2	            	PLAT2	integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
+KSSB1.OUT - production dynamic platform #3	            	PLAT3	integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
+KSSB1.OUT - production dynamic platform #4	            	PLAT4	integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
+KSSB1.OUT - production dynamic platform #5	            	PLAT5	integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
+KSSB1.OUT - production dynamic platform #6	            	PLAT6	integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
+KSSB1.OUT - production dynamic platform #7	            	PLAT7	integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
+KSSB1.OUT - production dynamic platform #8	            	PLAT8	integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
 
 	Vaccines technology platforms
 1	DNA-based
