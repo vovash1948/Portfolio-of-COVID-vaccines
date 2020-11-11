@@ -24,3 +24,13 @@ KSSB1.OUT - production dynamic platform #5	            PLAT5	  integer	        m
 KSSB1.OUT - production dynamic platform #6	            PLAT6	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
 KSSB1.OUT - production dynamic platform #7	            PLAT7	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
 KSSB1.OUT - production dynamic platform #8	            PLAT8	  integer	        matrix	  &I - sim. cycles	&J - month	eight similar files. Limitations of current version
+
+	Vaccines technology platforms
+1	DNA-based
+2	Inactivated virus
+3	Live attenuated virus
+4	Non-replicating viral vector
+5	Protein subunit
+6	Replicating viral vector
+7	RNA-based vaccine
+8	Virus-like particle
