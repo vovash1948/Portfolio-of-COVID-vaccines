@@ -49,6 +49,7 @@ You can give others remote access to your computer. They’ll have full access t
 7.	When that person enters your access code on the site, you will see a dialog with their e-mail address. Select Share to allow them full access to your computer.
 8.	To end a sharing session, click Stop Sharing.
 The access code will only work one time. If you are sharing your computer, you will be asked to confirm that you want to continue to share your computer every 30 minutes.
+
 When remote access to the server established, go to the drive G, directory C3 (G:\C3). Click on “hpro” file. In Command Prompt window dialog type file name “COVID_091120_C3.gps” and press “Enter”. Execution time is about two seconds. Then open MS Excel, select an output file you need in G:\C3 directory, open it and convert it into .csv format using the following prompts. (Please, see OUTPUT_FILES.xls for the list of names).  
 If you have any questions, please, email me at vladimir.shnaydman@orbeeconsulting.com 
 Example: After execution of the model, MS Excel needs to be opened. Then, if you would like to present graph “Vaccine approvals output vs. development risk” in Excel environment, click on file MSSB15.out. In the box, click NEXT two times, and then FINISH. MSSB15.out will open in the csv format. MSSB15.out file represents vaccine approvals for each platform and each simulation cycle. Columns are technology platforms listed in OUTPUT_FILES.xls. Rows represent number of vaccines approvals for different technology platforms for each simulation cycle. 
